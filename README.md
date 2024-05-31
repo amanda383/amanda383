@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://amandali.vercel.app/#about](https://amandali.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://amandali.vercel.app/](https://amandali.vercel.app/)
 
 - 📫 How to reach me **amanda.li@uwaterloo.ca**
 
