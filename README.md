@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanda</h1>
-<h3 align="center">Hi my name is Amanda, I am currently a student pursing an undergraduate degree in computer engineering at the University of Waterloo. With most of my knowledge being front-end development. I am currently interested in machine learning, and have been teaching myself about Object detection and how it can be implemented in my new mobile app GourmetGaze. <h3>Seeking Winter 2025 Internships</h3></h3>
+<h3 align="center">Hi my name is Amanda, I am currently a student pursing an undergraduate degree in computer engineering at the University of Waterloo. With most of my knowledge being front-end development. I am currently interested in machine learning, and have been teaching myself about Object detection and how it can be implemented in my new mobile app GourmetGaze. Seeking Winter 2025 Internships</h3>
 
 - 🔭 I’m currently working on **PantryAI**
 
