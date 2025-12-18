@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amanda.li@uwaterloo.ca**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ozWYvcEWCHN7At8MddTpZt3isacCvfUO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1agD-SEE0N-gYN4jyA3GwXz63iUT1Y8oY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
